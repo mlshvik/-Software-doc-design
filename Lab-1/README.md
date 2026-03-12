@@ -12,7 +12,7 @@
 ## Діаграми
 
 ### Use Case
-![Use Case](Lab-1/diagrams/use-in-case.drawio.jpg)
+![Use Case](Lab-1/diagrams/Use-in-case.drawio.png)
 
 ### Class Diagram
 ![Class](Lab-1/diagrams/Class.drawio.jpg)
