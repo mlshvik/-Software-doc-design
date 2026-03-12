@@ -12,13 +12,13 @@
 ## Діаграми
 
 ### Use Case
-![Use Case](Lab-1/Lab-1/diagrams/Activity.drawio.png)
+![Use Case](diagrams/use-in-case.drawio.jpg)
 
 ### Class Diagram
-![Class](Lab-1/Lab-1/diagrams/Class.drawio.jpg)
+![Class](diagrams/Class.drawio.jpg)
 
 ### Activity Diagram
-![Activity](Lab-1/Lab-1/diagrams/Sequence.drawio.png)
+![Activity](diagrams/Activity.drawio.png)
 
 ### Sequence Diagram
-![Sequence](Lab-1/Lab-1/diagrams/use-in-case.drawio.jpg)
+![Sequence](diagrams/Sequence.drawio.png)
